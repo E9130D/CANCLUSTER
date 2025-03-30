@@ -24,7 +24,7 @@ PINOUT FOR E89 SERIES(E90(3 Series), E8X(1 Series)
 ![Screenshot 2025-03-30 031859](https://github.com/user-attachments/assets/d5ddb126-7dd7-4bfd-a313-65847e344c17)
   
 30= +12VDC  
-31= -12BDC/GND  
+31= -12VDC/GND  
   
   
   
