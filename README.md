@@ -62,7 +62,8 @@ SHOUTOUT TO:
  
 **@albert._C** **@vampyryannik** (For adding Features and Bugfixes)  
 
-**@infox/infoX1337** (For making the incredible xConnect MCBs(Support will may be added later on))  
+**@infox/infoX1337** (For making the incredible xConnect MCBs(Support will may be added later on),   
+Check out his discord https://discord.gg/4TrwJQ8vq9 )  
 
 **@RBMK** (For mainly Starting my Interest into this whole thing, we love you)  
 
@@ -71,8 +72,10 @@ REMEMBER, HAVE FUN!
   
   
 
-Feel free to make tutorials or anything similar  
+Feel free to make tutorials or anything similar 
   
   
   
 Any Selling of this is forbidden, just dont scam people please.  
+
+Use this on your own risk, dont blame me if your house catches fire from bad wiring lol.
